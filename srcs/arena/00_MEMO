@@ -1,0 +1,9 @@
+NEED TO ADD DEAD CHAMPS TO FILL TAB or live will segfault
+
+carry starts at 0  or 1 ?
+
+-- pour noms de ficher -dump et tout -- ends options
+
+indirects negatifs ?
+checked op arg types
+NEED TO CHECK CARRY and for (int) vs (uint) caused mistakes
